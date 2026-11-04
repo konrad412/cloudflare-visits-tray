@@ -1,0 +1,9 @@
+*.exe
+*.log
+*.txt
+*.dat
+.vscode/
+.env
+.env.*
+*.key
+*.pem
